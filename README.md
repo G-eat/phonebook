@@ -11,4 +11,4 @@
 #### Password: password
 
 ## DB
-#### Click to go to: [url sql](https://github.com/G-eat/phonebook/blob/master/phonebook.sql)
+#### Click to go to: [https://github.com/G-eat/phonebook/blob/master/phonebook.sql](https://github.com/G-eat/phonebook/blob/master/phonebook.sql)
